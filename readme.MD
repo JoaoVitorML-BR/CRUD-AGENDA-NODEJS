@@ -6,6 +6,7 @@
 - 	Bom, basicamente você consegue fazer as 4 operações (CRUD) Create, read, update and delete.
 
 <hr>
+
 ## Iniciar o projeto
 
 - 	Bom primeiramente para iniciarmos o projeto iremos rodar o seguinte comando:
@@ -14,6 +15,7 @@
 -	Feito a instalação de todas as dependências iremos configuar o banco de dados.
 
 <hr>
+
 ## Configurando o MongoDB
 
 -	Antes de tudo, vale ressaltar que o MongoDB atlas disponibiliza 512MB grátis para usarmos como quisermos. por tanto, cuidado ao escolher a versão que você irá usar.
