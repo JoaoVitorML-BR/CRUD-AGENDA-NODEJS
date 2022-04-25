@@ -30,8 +30,8 @@
 <img align="center" alt="mongoconfigurado" height="120" width="320" src="./imagemconfigbanco/databaseconfig.png"><br>
 <img align="center" alt="datasettings" height="120" width="320" src="./imagemconfigbanco/databaseconfig.png"><br>
 
-*	OBS: Em caso de confusão recomendo esse vídeo também para que você possa configurar: 
--		<a href="https://www.youtube.com/watch?v=Fz9sGN1YePQ">Vídeo</a>
+*	OBS: Em caso de confusão recomendo esse vídeo também para que você possa configurar: 		
+<a href="https://www.youtube.com/watch?v=Fz9sGN1YePQ">Vídeo</a>
 
 -	De agora em diante vou considerar que seu banco de dados está 100% configurado, por tanto, seguiremos para o proxímo passo.
 
